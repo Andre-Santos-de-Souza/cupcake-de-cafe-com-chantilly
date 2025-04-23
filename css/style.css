@@ -19,7 +19,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    max-height: 100vh;
     font-family: var(--font1);
     flex-direction: column;
 }
@@ -30,7 +29,6 @@ main{
     padding: 20px;
     margin-top: 10px;
     border-radius: 15px;
-    margin: auto;
 }
 main .section_img{
     margin-bottom: 10px;
