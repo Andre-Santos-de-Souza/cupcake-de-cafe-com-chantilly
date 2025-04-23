@@ -21,6 +21,7 @@ body{
     justify-content: center;
     max-height: 100vh;
     font-family: var(--font1);
+    flex-direction: column;
 }
 main{
     min-width: 500px;
@@ -75,4 +76,10 @@ main .section_conteudo p:last-child{
 }
 main .section_conteudo p:nth-last-of-type(2){
     margin-top: 20px;
+}
+footer{
+    padding: 40px;
+}
+footer p{
+    color: white;
 }
