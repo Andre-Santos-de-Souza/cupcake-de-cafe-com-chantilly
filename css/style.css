@@ -12,8 +12,8 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(imagens/imagem-de-fundo.png);
-    background-color: #5738241c;
+    background-image: url(../imagens/imagem-de-fundo.png);
+    background-color: var(--cor1);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
